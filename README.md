@@ -6,4 +6,9 @@ En nuestro **e-commerce** el cliente tendra a su alcenze la posibilidad de adqui
 Apuntamos a **publico En general** dispuestos a conseguir su proximo vehiculo.
 
 La tipografia que utilizaremos sera:
-Nombre de la empresa: **
+Nombre de la empresa: **Modeka**
+Caracteristicas de importancia: **
+Boton Quiero verlo: **
+Formulario: **
+boton Confirmar:**
+Mensaje final:**
