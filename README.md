@@ -20,3 +20,4 @@ En nuestro **e-commerce** el cliente tendra a su alcenze la posibilidad de adqui
 * Mensaje final:#FF6D09 - #000000
 
 ### Logo: 
+![Lescano](https://user-images.githubusercontent.com/108592286/177057909-b50bcf72-7282-428b-8631-1eefd60dd91d.png)
