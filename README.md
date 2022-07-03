@@ -14,4 +14,9 @@ En nuestro **e-commerce** el cliente tendra a su alcenze la posibilidad de adqui
 * Boton Confirmar:**Orkney**
 * Mensaje final:**Coves**
 
+### Paleta de colores:
+* Pagina principal:
+* Formulario:
+* Mensaje final:
 
+### Logo: 
