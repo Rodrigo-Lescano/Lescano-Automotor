@@ -15,8 +15,8 @@ En nuestro **e-commerce** el cliente tendra a su alcenze la posibilidad de adqui
 * Mensaje final:**Coves**
 
 ### Paleta de colores:
-* Pagina principal:
-* Formulario:
-* Mensaje final:
+* Pagina principal:#979797 - #000000 - #FFFFFF - #FF6D09
+* Formulario:#000000 - #979797 - #FFFFFF 
+* Mensaje final:#FF6D09 - #000000
 
 ### Logo: 
