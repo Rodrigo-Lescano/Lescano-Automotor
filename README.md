@@ -5,10 +5,10 @@ En nuestro **e-commerce** el cliente tendra a su alcenze la posibilidad de adqui
 
 Apuntamos a **publico En general** dispuestos a conseguir su proximo vehiculo.
 
-1La tipografia que utilizaremos sera:
-2Nombre de la empresa: **Modeka**
-3 Caracteristicas de importancia: **Calibri**
+- La tipografia que utilizaremos sera:
+* Nombre de la empresa: **Modeka**
+* Caracteristicas de importancia: **Calibri**
 * Boton Quiero verlo: **Orkney**
-*Formulario: **Baskerville**
-*Boton Confirmar:**Orkney**
-*Mensaje final:**Coves**
+* Formulario: **Baskerville**
+* Boton Confirmar:**Orkney**
+* Mensaje final:**Coves**
